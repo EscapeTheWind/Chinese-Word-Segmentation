@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chinese-Word-Segmentation-master:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Chinese_Word_Segmentation_master_jar</output-path>
+    <root id="archive" name="Chinese-Word-Segmentation-master.jar">
+      <element id="module-output" name="Chinese-Word-Segmentation-master" />
+    </root>
+  </artifact>
+</component>
